@@ -1,0 +1,26 @@
+{
+  "name": "learn-semantic-release",
+  "version": "1.0.0",
+  "description": "Learn semantic release ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gparlakov/learn-semantic-release.git"
+  },
+  "keywords": [
+    "learn",
+    "semantic-release"
+  ],
+  "author": "gparlakov@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gparlakov/learn-semantic-release/issues"
+  },
+  "homepage": "https://github.com/gparlakov/learn-semantic-release#readme",
+  "dependencies": {
+    "semantic-release": "^17.0.6"
+  }
+}

@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/gparlakov/learn-semantic-release#readme",
   "dependencies": {
-    "semantic-release": "^17.0.6"
+    "semantic-release": "^17.2.3"
   }
 }
